@@ -1,7 +1,7 @@
 # Bamazon
 
 Bamazon application has a list of 10 products with prices. this allows you to pick the idems that you want and updates with exact number of idems left and total cost for idems that you want to buy. 
-
+[![SC2 Video]([![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w))]
 
 [![Alternate Text]({image-url})]({https://vimeo.com/user114265807/review/413600153/bf8e5e1cb6} "demo")
 
